@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @XiaoqiangZhou
 - 👀 I’m interested in Computer Vision, especially low-level image generation.
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me 
+- 📫 Welcome to my homepage: [xiaoqiangzhou.cn](xiaoqiangzhou.cn)
 
 <!---
 XiaoqiangZhou/XiaoqiangZhou is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
