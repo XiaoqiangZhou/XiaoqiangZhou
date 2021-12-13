@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @XiaoqiangZhou
-- 👀 I’m interested in Computer Vision, especially low-level image generation.
+- 👀 I’m interested in Computer Vision, especially Low-Level Vision and Image Synthesis.
 - 📫 Welcome to my homepage: [https://xiaoqiangzhou.cn](https://xiaoqiangzhou.cn)
 
 <!---
